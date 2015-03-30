@@ -6,8 +6,8 @@
 </description>
     <link>https://joegyoung.github.io/</link>
     <atom:link href="https://joegyoung.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 30 Mar 2015 10:38:11 -0700</pubDate>
-    <lastBuildDate>Mon, 30 Mar 2015 10:38:11 -0700</lastBuildDate>
+    <pubDate>Mon, 30 Mar 2015 10:39:58 -0700</pubDate>
+    <lastBuildDate>Mon, 30 Mar 2015 10:39:58 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -16,7 +16,8 @@
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;Jekyll also offers powerful support for code snippets:
+ttt&lt;/p&gt;
 
 &lt;p&gt;&lt;code&gt;ruby
 def print_hi(name)
