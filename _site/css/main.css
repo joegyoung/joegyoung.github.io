@@ -11,7 +11,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: "ClearSans", "Hevetica Neue", Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
   font-weight: 300;
@@ -93,7 +93,8 @@ code {
   font-size: 15px;
   border: 1px solid #e8e8e8;
   border-radius: 3px;
-  background-color: #eef; }
+  background-color: #eef;
+  white-space: pre; }
 
 code {
   padding: 1px 5px; }
@@ -447,3 +448,10 @@ pre {
     color: #008080; }
   .highlight .il {
     color: #099; }
+
+.wrapper {
+  max-width: 33em;
+  #max-width: calc(800px - (30px * 2)); }
+
+.site-footer {
+  margin-top: 70px; }
