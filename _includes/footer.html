@@ -53,3 +53,31 @@
   </div>
 
 </footer>
+
+<script>
+
+
+
+
+
+
+window.onresize = function() {
+            redraw();
+        };
+
+redraw();
+
+        function redraw() {
+var t = new Trianglify({
+   x_gradient: Trianglify.colorbrewer.PuOr[9]
+});
+var pattern = t.generate(document.body.clientWidth, document.body.clientHeight);
+document.body.children[0].setAttribute('style', 'background-image: '+pattern.dataUrl);
+
+        }
+
+
+
+</script>
+
+

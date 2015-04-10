@@ -453,5 +453,5 @@ pre {
   max-width: 33em;
   #max-width: calc(800px - (30px * 2)); }
 
-.site-footer {
-  margin-top: 70px; }
+.page-content {
+  padding-bottom: 120px; }

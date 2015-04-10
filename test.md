@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Read
+ttitle: Read
 
-permalink: /readme/
+permalink: /projects/test.html
 ---
 
-## Synposis
+# Synposis
 Demo website  to show off what I am interested in 
 
 <style>

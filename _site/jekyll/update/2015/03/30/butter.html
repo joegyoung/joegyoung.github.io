@@ -15,7 +15,8 @@
 
 
 <script src="/js/type.js" type="text/javascript"></script>
-
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="/js/trianglify.js"></script>
 
 
 
@@ -44,11 +45,15 @@
       <div class="trigger">
         
           
-          <a class="page-link" href="/readme/">Read Me</a>
+          <a class="page-link" href="/readme/">Read</a>
           
         
           
           <a class="page-link" href="/about/">About</a>
+          
+        
+          
+        
           
         
           
@@ -143,6 +148,34 @@
   </div>
 
 </footer>
+
+<script>
+
+
+
+
+
+
+window.onresize = function() {
+            redraw();
+        };
+
+redraw();
+
+        function redraw() {
+var t = new Trianglify({
+   x_gradient: Trianglify.colorbrewer.PuOr[9]
+});
+var pattern = t.generate(document.body.clientWidth, document.body.clientHeight);
+document.body.children[0].setAttribute('style', 'background-image: '+pattern.dataUrl);
+
+        }
+
+
+
+</script>
+
+
 
 
   </body>
