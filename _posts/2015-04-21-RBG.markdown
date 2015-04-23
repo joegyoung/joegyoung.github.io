@@ -4,11 +4,29 @@ title:  "Ruby OPENCV and GNUPLOT "
 date:   2015-04-21 10:42:56
 categories: jekyll update
 ---
+
+
+
+
 I am working OpenCV to indentify color and groups in images
 
- <object width="250px"  style="float: right; " id="front-page-logo" type="image/svg+xml" data="/media/colorplot.svg">Your browser does not support SVG</object>
 
- <img width="250px" src="/media/MichaelEmerson.jpg">
+<p style="margin-left: auto;margin-right: auto;width: 80%">
+	<div>
+		<span style="display: inline-block;background-color:#dcdddc; ;width:30px; height:17px;"></span>
+		<span style="display: inline-block;background-color:#25242a; ;width:30px; height:17px;"></span> 
+		<span style="display: inline-block;background-color:#9a7d69; ;width:30px; height:17px;"></span>
+		<span style="display: inline-block;background-color:#473d37; ;width:30px; height:17px;"></span> 
+		<span style="display: inline-block; height:15px"><img src="/media/histogram.jpg"></span>
+	</div>
+
+	<img  style="width: 100%" src="/media/MichaelEmerson.jpg" onmouseover="this.src='/media/MichaelEmerson-fingerprint.jpg'" onmouseout="this.src='/media/MichaelEmerson.jpg'" border="0" alt=""/>
+
+	 <object  style="width: 100%; ma"  id="" type="image/svg+xml" data="/media/colorplot.svg">Your browser does not support SVG</object>
+</p>
+ 
+
+
 
 
 {% highlight ruby %}

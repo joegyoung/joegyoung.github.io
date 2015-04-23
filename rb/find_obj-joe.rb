@@ -302,7 +302,7 @@ windows.show object4
 GUI::wait_key
 
 
-
+object4.save "../media/MichaelEmerson-fingerprint.jpg"
 
 
 

@@ -6,17 +6,27 @@
 </description>
     <link>https://joegyoung.github.io/</link>
     <atom:link href="https://joegyoung.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 23 Apr 2015 10:27:37 -0700</pubDate>
-    <lastBuildDate>Thu, 23 Apr 2015 10:27:37 -0700</lastBuildDate>
+    <pubDate>Thu, 23 Apr 2015 13:42:20 -0700</pubDate>
+    <lastBuildDate>Thu, 23 Apr 2015 13:42:20 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>Ruby OPENCV and GNUPLOT </title>
         <description>&lt;p&gt;I am working OpenCV to indentify color and groups in images&lt;/p&gt;
 
-&lt;object width=&quot;250px&quot; style=&quot;float: right; &quot; id=&quot;front-page-logo&quot; type=&quot;image/svg+xml&quot; data=&quot;/media/colorplot.svg&quot;&gt;Your browser does not support SVG&lt;/object&gt;
+&lt;p style=&quot;margin-left: auto;margin-right: auto;width: 80%&quot;&gt;
+	&lt;div&gt;
+		&lt;span style=&quot;display: inline-block;background-color:#dcdddc; ;width:30px; height:17px;&quot;&gt;&lt;/span&gt;
+		&lt;span style=&quot;display: inline-block;background-color:#25242a; ;width:30px; height:17px;&quot;&gt;&lt;/span&gt; 
+		&lt;span style=&quot;display: inline-block;background-color:#9a7d69; ;width:30px; height:17px;&quot;&gt;&lt;/span&gt;
+		&lt;span style=&quot;display: inline-block;background-color:#473d37; ;width:30px; height:17px;&quot;&gt;&lt;/span&gt; 
+		&lt;span style=&quot;display: inline-block; height:15px&quot;&gt;&lt;img src=&quot;/media/histogram.jpg&quot; /&gt;&lt;/span&gt;
+	&lt;/div&gt;
 
-&lt;p&gt;&lt;img width=&quot;250px&quot; src=&quot;/media/MichaelEmerson.jpg&quot; /&gt;&lt;/p&gt;
+	&lt;img style=&quot;width: 100%&quot; src=&quot;/media/MichaelEmerson.jpg&quot; onmouseover=&quot;this.src=&#39;/media/MichaelEmerson-fingerprint.jpg&#39;&quot; onmouseout=&quot;this.src=&#39;/media/MichaelEmerson.jpg&#39;&quot; border=&quot;0&quot; alt=&quot;&quot; /&gt;
+
+	 &lt;object style=&quot;width: 100%; ma&quot; type=&quot;image/svg+xml&quot; data=&quot;/media/colorplot.svg&quot;&gt;Your browser does not support SVG&lt;/object&gt;
+&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://github.com/joegyoung&quot;&gt;My Github&lt;/a&gt;&lt;/p&gt;
 
