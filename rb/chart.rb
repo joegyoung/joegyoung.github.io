@@ -14,9 +14,9 @@ links = [
 
 ["Finish product", "Make Money", ""],
 ["Make Money", "Profit", ""],
-["Finish product", "Zero Money", ""],
-["Zero Money","Work for a \nNonProfit", ""],
-["Zero Money","Change Jobs", ""]
+#["Finish product", "Zero Money", ""],
+#["Zero Money","Work for a \nNonProfit", ""],
+#["Zero Money","Change Jobs", ""]
 
 ]
 
