@@ -9,8 +9,8 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 195.124)">
 <title>G</title>
 <polygon fill="white" stroke="none" points="-4,4 -4,-195.124 177.804,-195.124 177.804,4 -4,4"/>
-<!-- n859280713160987823 -->
-<g id="node1" class="node"><title>n859280713160987823</title>
+<!-- n4462250060695676480 -->
+<g id="node1" class="node"><title>n4462250060695676480</title>
 <polygon fill="none" stroke="black" points="86.902,-191.124 0.0978617,-173.124 86.902,-155.124 173.706,-173.124 86.902,-191.124"/>
 <polyline fill="none" stroke="black" points="11.8479,-175.561 11.8479,-170.687 "/>
 <polyline fill="none" stroke="black" points="75.152,-157.561 98.6521,-157.561 "/>
@@ -18,18 +18,18 @@
 <polyline fill="none" stroke="black" points="98.6521,-188.687 75.152,-188.687 "/>
 <text text-anchor="middle" x="86.902" y="-168.924" font-family="Times,serif" font-size="14.00">Finish product</text>
 </g>
-<!-- n1691633239074390726 -->
-<g id="node2" class="node"><title>n1691633239074390726</title>
-<polygon fill="yellow" stroke="yellow" points="132.44,-119.124 41.3639,-119.124 41.3639,-83.124 132.44,-83.124 132.44,-119.124"/>
+<!-- n556230804107508662 -->
+<g id="node2" class="node"><title>n556230804107508662</title>
+<polygon fill="orange" stroke="orange" points="132.44,-119.124 41.3639,-119.124 41.3639,-83.124 132.44,-83.124 132.44,-119.124"/>
 <text text-anchor="middle" x="86.902" y="-96.924" font-family="Times,serif" font-size="14.00">Make Money</text>
 </g>
-<!-- n859280713160987823&#45;&gt;n1691633239074390726 -->
-<g id="edge1" class="edge"><title>n859280713160987823&#45;&gt;n1691633239074390726</title>
+<!-- n4462250060695676480&#45;&gt;n556230804107508662 -->
+<g id="edge1" class="edge"><title>n4462250060695676480&#45;&gt;n556230804107508662</title>
 <path fill="none" stroke="black" d="M86.902,-154.821C86.902,-147.107 86.902,-137.836 86.902,-129.236"/>
 <polygon fill="black" stroke="black" points="90.4021,-129.228 86.902,-119.228 83.4021,-129.228 90.4021,-129.228"/>
 </g>
-<!-- n4166519936618271987 -->
-<g id="node3" class="node"><title>n4166519936618271987</title>
+<!-- n1205329850491816998 -->
+<g id="node3" class="node"><title>n1205329850491816998</title>
 <polygon fill="none" stroke="black" points="110.526,-47.1862 63.2778,-47.1862 63.2778,0.0621754 110.526,0.0621754 110.526,-47.1862"/>
 <polyline fill="none" stroke="black" points="75.2778,-47.1862 63.2778,-35.1862 "/>
 <polyline fill="none" stroke="black" points="63.2778,-11.9378 75.2778,0.0621754 "/>
@@ -37,8 +37,8 @@
 <polyline fill="none" stroke="black" points="110.526,-35.1862 98.5262,-47.1862 "/>
 <text text-anchor="middle" x="86.902" y="-19.362" font-family="Times,serif" font-size="14.00">Profit</text>
 </g>
-<!-- n1691633239074390726&#45;&gt;n4166519936618271987 -->
-<g id="edge2" class="edge"><title>n1691633239074390726&#45;&gt;n4166519936618271987</title>
+<!-- n556230804107508662&#45;&gt;n1205329850491816998 -->
+<g id="edge2" class="edge"><title>n556230804107508662&#45;&gt;n1205329850491816998</title>
 <path fill="none" stroke="black" d="M86.902,-82.9778C86.902,-75.4041 86.902,-66.2345 86.902,-57.4273"/>
 <polygon fill="black" stroke="black" points="90.4021,-57.3724 86.902,-47.3724 83.4021,-57.3725 90.4021,-57.3724"/>
 </g>

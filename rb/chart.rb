@@ -42,7 +42,7 @@ end
 # Note the extra quotes needed!
 dgp.set_node_attributes("Finish product", {:shape => "Mdiamond"})
 
-dgp.set_node_attributes("Make Money", :color => 'yellow', :style => 'filled')
+dgp.set_node_attributes("Make Money", :color => 'orange', :style => 'filled')
 dgp.set_node_attributes("Zero Money", :color => 'yellow', :style => 'filled')
 dgp.set_node_attributes("Profit", {:shape => "Msquare"})
 dgp.set_node_attributes("Work for a \nNonProfit", {:shape => "Msquare"})
