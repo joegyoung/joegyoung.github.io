@@ -13,9 +13,7 @@ I am implementing a Website for my Ruby projects. I am interested in building GU
 
 
 
-[Jekyll docs][jekyll]
+[My Github][github]
 
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+[github]:      http://github.com/joegyoung

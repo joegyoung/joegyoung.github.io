@@ -41,7 +41,12 @@ end
 dgp.set_node_attributes(2, :URL => '"node2.html"')
 
 # And now output to files
-dgp.write_to_file("/tmp/chart.png", "png")  # Generate png file
+#dgp.write_to_file("/tmp/chart.png", "png")  # Generate png file
+dgp.write_to_file("../media/chart.svg", "svg")  # Generate png file
+
+
+exit 
+## NOT NEED FOR THIS!!!!!
 
 image = ChunkyPNG::Image.from_file('/tmp/chart.png')
 

@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Ruby GNU and Kmeans"
+date:   2015-04-21 10:42:56
+categories: jekyll update
+---
+I am working OpenCV to indentify color and groups in images
+
+ <object width="250px"  style="float: right; " id="front-page-logo" type="image/svg+xml" data="/media/colorplot.svg">Your browser does not support SVG</object>
+
+ <img width="250px" src="/media/MichaelEmerson.jpg">
+
+
+{% highlight ruby %}
+
+{% endhighlight %}
+
+
+
+
+[My Github][github]
+
+
+[github]:      http://github.com/joegyoung
+
