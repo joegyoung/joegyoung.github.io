@@ -6,12 +6,12 @@
 </description>
     <link>https://joegyoung.github.io/</link>
     <atom:link href="https://joegyoung.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 23 Apr 2015 10:25:02 -0700</pubDate>
-    <lastBuildDate>Thu, 23 Apr 2015 10:25:02 -0700</lastBuildDate>
+    <pubDate>Thu, 23 Apr 2015 10:27:37 -0700</pubDate>
+    <lastBuildDate>Thu, 23 Apr 2015 10:27:37 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
-        <title>Ruby GNU and Kmeans</title>
+        <title>Ruby OPENCV and GNUPLOT </title>
         <description>&lt;p&gt;I am working OpenCV to indentify color and groups in images&lt;/p&gt;
 
 &lt;object width=&quot;250px&quot; style=&quot;float: right; &quot; id=&quot;front-page-logo&quot; type=&quot;image/svg+xml&quot; data=&quot;/media/colorplot.svg&quot;&gt;Your browser does not support SVG&lt;/object&gt;

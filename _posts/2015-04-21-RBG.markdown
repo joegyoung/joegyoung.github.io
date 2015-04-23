@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ruby GNU and Kmeans"
+title:  "Ruby OPENCV and GNUPLOT "
 date:   2015-04-21 10:42:56
 categories: jekyll update
 ---
